@@ -12,4 +12,4 @@ created 3 functions;
 #other function for returning the followers list from the login passed from the users and return them in json.
 
 then using a for loop filtered the users with userid divisible by 10.
-Atlast using csvwriter converted the filtered data into csv file.
+Atlast using csvwriter converted the filtered data to csv file.
